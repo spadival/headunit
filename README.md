@@ -1,3 +1,5 @@
+# UPDATE: Please refer to https://github.com/gartnera/headunit for the latest code. The source here is no longer current.
+
 # Unofficial Mazda Connect (tm) (*) Android Auto Headunit App
 
 Unofficial port of Android Auto Headunit App to Mazda Connect CMU. The app makes extensive use of jni functions that were originally developed by Mike Reid as part of his Android app (see below). The Mazda specific source code is under the /mazda folder.
